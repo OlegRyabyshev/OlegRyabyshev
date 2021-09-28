@@ -1,0 +1,5 @@
+- 🙋‍♂️ Hello, my name is Oleg Ryabyshev
+- 🔧 I'm a Junior Android Developer from Russia, Moscow
+- 👾 Currently i'm studying Android and developing my own pet-projects
+- 🏄🏻 In my spare time i like 3D modeling, drawing my own designs and skating / longboarding
+- 👀 Here is my Telegram if you want to reach me https://t.me/OlegRyabyshev

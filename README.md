@@ -1,6 +1,6 @@
 - 🙋‍♂️ Hi, my name is Oleg Ryabyshev
 - 🔧 I'm an Android Developer from Russia, Moscow
-- 👾 Currently i'm developing the biggest banking app in Europe - Sberbank Online. 
-- 🧑‍🔧 Sometimes I'm making my own pet-projects to try out new technologies.
-- 🏄🏻 In my spare time i like longboarding, 3D modeling and drawing my own designs.
+- 👾 Currently i'm developing the biggest banking app in Europe - Sberbank Online 
+- 🧑‍🔧 Sometimes I'm making my own pet-projects to try out new technologies
+- 🏄🏻 In my spare time i like longboarding, 3D modeling and drawing my own designs
 - ✉️ Here is my Telegram - https://t.me/OlegRyabyshev
